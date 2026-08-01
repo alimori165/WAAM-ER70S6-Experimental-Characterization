@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Please cite the associated manuscript when it becomes available; until then, cite this repository."
+title: "Experimental Process-Structure-Property Characterization of ER70S-6 Steel Produced by GMA-WAAM"
+type: dataset
+authors:
+  - family-names: "Mouri Bazofti"
+    given-names: "Ali"
+    email: "A.mori@aut.ac.ir"
+  - family-names: "Farzadi"
+    given-names: "Ali"
+  - family-names: "Samadani"
+    given-names: "Ali"
+repository-code: "https://github.com/alimori165/WAAM-ER70S6-Experimental-Characterization"
+version: "0.1.0"
+date-released: "2026-08-01"
+keywords:
+  - "wire arc additive manufacturing"
+  - "WAAM"
+  - "ER70S-6"
+  - "microstructure"
+  - "mechanical properties"
+  - "fractography"
+  - "GMAW"

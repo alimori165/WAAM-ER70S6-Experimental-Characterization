@@ -1,0 +1,4 @@
+condition,bead_strategy,overlap,comparability_note,quantitative_energy_status
+W1,two-pass / multi-bead,30%,bead strategy differs from W2 and W3; treat as a combined deposition condition,withheld pending source reconciliation
+W2,single-pass,,use wall identifier rather than attributing all differences to heat input alone,withheld pending source reconciliation
+W3,single-pass,,use wall identifier rather than attributing all differences to heat input alone,withheld pending source reconciliation

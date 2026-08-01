@@ -1,0 +1,11 @@
+field,value,unit_or_detail,release_note
+deposition_process,GMA-WAAM,,robotic wire-arc deposition
+welding_power_source,Miller Phoenix 456,,reported equipment
+motion_platform,three-axis CNC WAAM system with rotating table,,reported equipment
+feedstock,ER70S-6 solid wire,1.2 mm diameter,wire chemistry is provided in the manuscript
+substrate,ST37 steel,150 x 100 x 10 mm,length x width x thickness
+shielding_gas,Ar/CO2,98/2 vol.%,reported composition
+torch_orientation,normal to substrate,90 degrees,reported setup
+contact_tip_to_workpiece_distance,12,mm,reported constant
+interpass_temperature_target,165,degC,reported target
+deposition_path,alternating/back-and-forth,,reported strategy

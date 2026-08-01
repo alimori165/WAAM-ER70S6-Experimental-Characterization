@@ -1,0 +1,7 @@
+characterization,standard_basis,specimen_or_test_detail,instrument_or_method,public_release_status
+Vickers hardness,ASTM E92-17 based,10 kgf; five indents in each of four wall zones,Vickers hardness test,curated wall averages released
+Tensile,"ASTM E8 based, sub-size",1.5 mm thickness; 9 mm gauge length; 28 mm total length; 0.5 mm/min,"SANTAM STM-20, 2 ton",orientation-resolved raw curves pending verification
+Charpy impact,ASTM E23 based,10 x 10 x 55 mm; four specimens per wall; room temperature,Charpy impact test,raw absorbed-energy records pending verification
+Optical metallography,laboratory procedure,four wall zones; grinding/polishing; 10% Nital,NEOPHOT 32 optical microscope,representative micrographs released
+SEM fractography,laboratory procedure,tensile and impact fracture surfaces,VEGA3 TESCAN SEM,selected representative images released
+Grain size,Heyn intercept method,wall-level average,line-intercept analysis,curated wall averages released
